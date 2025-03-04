@@ -1,0 +1,20 @@
+.main-aboutMe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000px;
+    height: 800px;
+    margin: 20px;
+}
+
+.left-aboutMe{
+    font-size: 50px;
+    width: 500px;
+    margin: 0 20px 0 0;
+}
+
+.right-aboutMe{
+    font-size: 20px;
+    line-height:40px;
+    margin: 0 0 0 20px;
+}

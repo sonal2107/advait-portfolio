@@ -1,0 +1,52 @@
+.swiper {
+    width: 800px;
+    height: 500px;
+
+  }
+  
+  .swiper-slide {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 18px;
+    font-size: 22px;
+    font-weight: bold;
+    color: white;
+    background: rgba(255, 255, 255, 0.1);
+    box-shadow: 0 25px 45px rgba(0, 0, 0, .2);
+    border-radius: 30px;
+    border: 2px solid rgba(255, 255, 255, .5);
+    border-right: 2px solid rgba(255, 255, 255, .2);
+    border-bottom: 2px solid rgba(255, 255, 255, 1.2);
+    backdrop-filter: blur(20px);
+  }
+
+  .main-certificate{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.certificate-content{
+    border: 1px solid white;
+    width: 780px;
+    height: 480px;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.title{
+    font-size: 80px;
+    color: #92C4FD;
+}
+
+.course{
+    font-size: 30px;
+    margin: 30px 0 0 0;
+}
